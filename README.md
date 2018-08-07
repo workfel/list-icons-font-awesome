@@ -20,15 +20,19 @@ $ node index.js --outFile=myCustomFile.json
 
 ```json
 {
-  "version": "1",
+  "version": "1.0.1",
   "icons": [
-    "fa-500px",
-    "fa-accessible-icon",
-    "fa-accusoft",
-    "fa-address-book",
+    "fas fa-address-book",
+    "fas fa-address-card",
+    "fas fa-adjust",
+    // ...
+    "far fa-trash-alt",
+    "far fa-user-circle",
+    "far fa-user",
+    "far fa-window-close",
     // ....
-    "fa-youtube",
-    "fa-youtube-square"
+    "fab fa-youtube-square",
+    "fab fa-youtube"
   ]
 }
 ```

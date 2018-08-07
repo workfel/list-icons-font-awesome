@@ -1,6 +1,6 @@
 {
     "name": "list-icons-font-awesome",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Generate json file with icons list of fontawesome",
     "main": "index.js",
     "scripts": {
@@ -18,7 +18,8 @@
     "homepage": "https://github.com/workfel/list-icons-font-awesome#readme",
     "dependencies": {
         "@fortawesome/fontawesome-free-webfonts": "^1.0.9",
-        "args-parser": "^1.1.0"
+        "args-parser": "^1.1.0",
+        "svgson": "^2.1.1"
     },
     "keywords": [
         "font-awesome",
