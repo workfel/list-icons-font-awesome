@@ -1,0 +1,23 @@
+{
+    "name": "list-icons-font-awesome",
+    "version": "1.0.0",
+    "description": "Generate json file with icons list of fontawesome",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/workfel/list-icons-font-awesome.git"
+    },
+    "author": "Johan Pujol | workfel",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/workfel/list-icons-font-awesome/issues"
+    },
+    "homepage": "https://github.com/workfel/list-icons-font-awesome#readme",
+    "dependencies": {
+        "@fortawesome/fontawesome-free-webfonts": "^1.0.9",
+        "args-parser": "^1.1.0"
+    }
+}
